@@ -1,5 +1,12 @@
 # D603-Task-1-Classification-Data-Mining-Models
+### Overview
 
+### Random Forest Classification – Patient Readmission Prediction
+-	Developed and optimized a Random Forest model to predict 30-day patient readmission using demographic, medical, and hospitalization data (~20 features).
+-	Performed hyperparameter tuning (GridSearchCV) to optimize accuracy, achieving ~98% accuracy, precision, and recall; identified key risk factors like hospital stay duration and total charges.
+-	Evaluated model performance using AUC-ROC, confusion matrix, and feature importance analysis to guide hospital interventions.
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D603 Task 1 Final.docx - A Word document file that contains the report for Task 1.
