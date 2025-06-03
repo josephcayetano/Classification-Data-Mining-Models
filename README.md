@@ -1,4 +1,4 @@
-# D603-Task-1-Classification-Data-Mining-Models
+# Classification Data Mining Models
 ### Overview
 This project focuses on predicting 30-day patient readmission using a Random Forest classification model, leveraging demographic, medical, and hospitalization data.
 
