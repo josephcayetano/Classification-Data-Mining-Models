@@ -1,11 +1,11 @@
 # Classification Data Mining Models
 ### Overview
-This project focuses on predicting 30-day patient readmission using a Random Forest classification model, leveraging demographic, medical, and hospitalization data.
+This project used a Random Forest model to predict whether a patient would be readmitted within 30 days, based on their demographic, medical, and hospital data.
 
 ### Random Forest Classification – Patient Readmission Prediction
--	Developed and optimized a Random Forest model to predict 30-day patient readmission using demographic, medical, and hospitalization data (~20 features).
--	Performed hyperparameter tuning (GridSearchCV) to optimize accuracy, achieving ~98% accuracy, precision, and recall; identified key risk factors like hospital stay duration and total charges.
--	Evaluated model performance using AUC-ROC, confusion matrix, and feature importance analysis to guide hospital interventions.
+-	Built and improved a Random Forest model using about 20 features, including patient history and hospital stay details
+-	Tuned the model with GridSearchCV and achieved around 98% accuracy, precision, and recall
+-	Identified key factors like length of stay and total charges; evaluated the model using AUC-ROC, confusion matrix, and feature importance to support hospital decisions
 
 ### Files
 1. README.md - A file describing other files in this repository.
